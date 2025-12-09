@@ -1,4 +1,4 @@
-# 📊 Implementasi Teori Graf Menggunakan Python
+# ALP Matematika Diskrit
 
 Proyek ini merupakan implementasi sistem berbasis Python untuk mempelajari teori graf menggunakan library NetworkX. Proyek ini dibuat sebagai bagian dari tugas Matematika Diskrit yang mencakup analisis graf, visualisasi, dan penyelesaian problem AFL-3.
 
