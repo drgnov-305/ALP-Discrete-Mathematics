@@ -4,6 +4,8 @@ Proyek ini merupakan implementasi sistem berbasis Python untuk mempelajari teori
 
 ## 👨‍💻 Informasi Project
 
+- **Nama**: Muhammad Habbibie Zikrillah (0806022329001)
+- **Prodi**: IMT-AI
 - **Mata Kuliah**: Matematika Diskrit
 - **Institusi**: Universitas Ciputra - Kampus Makassar
 - **Library**: NetworkX, Matplotlib
